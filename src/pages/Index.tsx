@@ -1,7 +1,7 @@
-import MatrixRain from '@/components/MatrixRain';
+import MatrixWallpaper from '@/components/MatrixWallpaper';
 
 const Index = () => {
-  return <MatrixRain />;
+  return <MatrixWallpaper />;
 };
 
 export default Index;
