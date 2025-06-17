@@ -1,7 +1,7 @@
-import MatrixWallpaper from '@/components/MatrixWallpaper';
+import MatrixRainExact from '@/components/MatrixRainExact';
 
 const Index = () => {
-  return <MatrixWallpaper />;
+  return <MatrixRainExact />;
 };
 
 export default Index;
