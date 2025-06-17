@@ -1,7 +1,7 @@
-import MatrixRainExact from '@/components/MatrixRainExact';
+import EnhancedLiveClockWallpaper from '@/components/EnhancedLiveClockWallpaper';
 
 const Index = () => {
-  return <MatrixRainExact />;
+  return <EnhancedLiveClockWallpaper />;
 };
 
 export default Index;
