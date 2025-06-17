@@ -1,7 +1,7 @@
-import BestSlidingClockWallpaper from '@/components/BestSlidingClockWallpaper';
+import EnhancedLiveClockWallpaper from '@/components/EnhancedLiveClockWallpaper';
 
 const Index = () => {
-  return <BestSlidingClockWallpaper />;
+  return <EnhancedLiveClockWallpaper />;
 };
 
 export default Index;
